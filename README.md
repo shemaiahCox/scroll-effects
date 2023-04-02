@@ -1,4 +1,4 @@
-# Getting Started with Product Catalogue
+# Getting Started with Scroll Effects
 
 This was built using HTML, CSS and Javascript.
 
